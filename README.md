@@ -1,56 +1,44 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# TDD-project
 
-> Description the project.
+> This project uses Ruby to initiate a test driven development project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
+- Git
+- Rspec
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+- copy this link `https://github.com/mohamedelshamy55/TDD-project.git`.
+- get the directory that you want to clone the repository.
+- open the command prompt in this directory.
+- write `git clone `https://github.com/mohamedelshamy55/TDD-project.git`.
+- go to the repository folder in your command prompt.
+- run `bundle install`.
+
+## To run the tests
+- Add to the terminal `rspec solver_spec.rb`
 
 ### Prerequisites
 
-### Setup
+-Ruby
+- rspec
 
-### Install
+## Author
 
-### Usage
+👤 **Mohamed ELShamy**
 
-### Run tests
+- GitHub: [@mohamedelshamy55](https://github.com/mohamedelshamy55)
+- Twitter: [@moelshamy55](https://mobile.twitter.com/moelshamy55)
+- LinkedIn: [mohamedelshamy85](https://www.linkedin.com/in/mohamedelshamy85/)
 
-### Deployment
 
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
